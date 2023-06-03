@@ -1,2 +1,1 @@
-"venv/Scripts/python.exe" main.py "%1"
-pause
+start "" "venv/Scripts/pythonw.exe" main.py "%1"
