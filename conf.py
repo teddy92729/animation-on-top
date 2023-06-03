@@ -1,8 +1,8 @@
-offset=(-10,-10)
-size=(880,780)
-startFrameIndex=1
-endFrameIndex=90
-filenameFormat="%03d_waifu2x_1x_5n_png.png"
+offset=(0,0)
+size=(100,100)
+startFrameIndex=0
+endFrameIndex=9
+filenameFormat="%d.png"
 fps=30
 # transparent=None 
 transparent=(255,255,255) 
